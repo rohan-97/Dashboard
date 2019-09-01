@@ -5,7 +5,7 @@
 		$uri = 'http://';
 	}
 	$uri .= $_SERVER['HTTP_HOST'];
-	header('Location: '.$uri.'/dashboard/');
+	header('Location: '.$uri.'/dashboard/dashboard/');
 	exit;
 ?>
 Something is wrong with Setup:-(
