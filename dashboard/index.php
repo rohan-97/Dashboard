@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Dashboard</title>		
+		<title>Dashboard</title>
+		<link rel='shortcut icon' href='favicon.ico' type='image/x-icon' />
 		<!--Import Google Icon Font-->
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		<!--Import materialize.css-->
@@ -88,22 +89,6 @@
 			<div class="collapsible-body">
 			<ul class="collection dircontainer">
 				<li class="collection-item avatar"><i class="material-icons circle">folder</i><span class="title">Title</span><p>First Line <br>Second Line</p><a href="#!" class="secondary-content"><i class="material-icons">grade</i></a></li>
-				<!-- <li class="collection-item avatar">
-					<i class="material-icons circle green">folder</i>
-					<span class="title">Title</span>
-					<p>First Line <br>
-						Second Line
-					</p>
-					<a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
-				</li>
-				<li class="collection-item avatar">
-					<i class="material-icons circle red">folder</i>
-					<span class="title">Title</span>
-					<p>First Line <br>
-						Second Line
-					</p>
-					<a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
-				</li> -->
 			</ul>
 			</div>
 		</li>
